@@ -1,24 +1,16 @@
-# Pathumpong Pankliang
+# Resume - Pathumpong Pankliang
 
-Aspiring Data Analyst | Computer Engineering Student (KMITL Chumphon)
+ไฟล์ PDF นี้คือ **Resume ของ Pathumpong Pankliang**  
+สำหรับสมัครฝึกงาน **Data Analyst** ที่ **SCG ทุ่งสง**
 
 ---
 
 ## About Me
-- Computer Engineering student interested in **Data Analytics** & **Visualization**  
-- Skilled in **Python**, **SQL**, and **Excel**  
+- Computer Engineering student interested in **Data Analytics & Visualization**  
+- Skilled in **Python, SQL, Excel**  
 - Strong interest in **Mathematics** and problem-solving  
-- Motivated to learn new skills and contribute effectively in a team  
-- GPA: **3.98** | Expected Graduation: **2026**
 
 ---
 
-## Skills
-- **Programming:** Python, C++  
-- **Data Analysis & Tools:** SQL, Excel  
-- **Web & Others:** Basic HTML, CSS, JavaScript  
-
----
-
-## Resume
-[📄 Download My Resume](./resume.pdf)
+## Download Resume
+[📄 Download Resume](./resume.pdf)
