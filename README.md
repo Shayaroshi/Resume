@@ -20,13 +20,5 @@ Aspiring Data Analyst | Computer Engineering Student (KMITL Chumphon)
 
 ---
 
-## Coursework
-- **Data Structure**  
-- **Database**  
-- **Statistics**  
-- **Python Programming**  
-
----
-
 ## Resume
 [📄 Download My Resume](./resume.pdf)
